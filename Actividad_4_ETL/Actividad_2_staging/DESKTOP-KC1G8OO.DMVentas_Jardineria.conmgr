@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-KC1G8OO.DMVentas_Jardineria"
+  DTS:DTSID="{F7D04253-297C-48D3-A189-8B62BFACA332}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-KC1G8OO;Initial Catalog=DMVentas_Jardineria;Integrated Security=True;Encrypt=False;Application Name=SSIS-Actividad_4_staging-{F7D04253-297C-48D3-A189-8B62BFACA332}DESKTOP-KC1G8OO.DMVentas_Jardineria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
